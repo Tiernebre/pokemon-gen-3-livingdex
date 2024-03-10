@@ -36,7 +36,7 @@ In addition to the living dex, I also have other goals I wish to accomplish.
 - [ ] Complete the Kanto Pokedex.
 - [ ] Jump 100 times in a row in Pokemon Jump and get 200 berries in Dodrio Berry Picking.
 
-### XD: Gale of darkness
+### XD: Gale of Darkness
 
 - [ ] All shadow pokemon caught and purified.
 - [ ] Complete Mt Battle with an unchanged party in one-go.
@@ -76,5 +76,7 @@ In addition to the living dex, I also have other goals I wish to accomplish.
 ## Tools
 
 - [mgba](https://mgba.io/) 
-- [Dolphin](https://dolphin-emu.org/) for the gamecube ones.
+- [Dolphin](https://dolphin-emu.org/)
+- [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/)
+    - Just for viewing save data and knowing EVs and IVs for prepping for frontier.
 
