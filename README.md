@@ -12,44 +12,44 @@ In addition to the living dex, I also have other goals I wish to accomplish.
 
 ### Overall
 
-- [] All 386 legitimate Pokémon stored in a save file of Pokemon Box Ruby and Sapphire OR Emerald.
+- [ ] All 386 legitimate Pokémon stored in a save file of Pokemon Box Ruby and Sapphire OR Emerald.
 
 ### Ruby and Sapphire
 
-- [] Defeat the Elite Four and Steven **in both games**.
-- [] Obtain a Gold 4 Star Trainer card in Sapphire.
-    - [] Get a record in the Hall of Fame.
-    - [] Complete the Hoenn Pokedex.
-    - [] Get five paintings in the Lilycove Museum.
-    - [] Defeat 50 trainers in a row in the Battle Tower.
-- [] Master all ranks of contests in Sapphire.
+- [ ] Defeat the Elite Four and Steven **in both games**.
+- [ ] Obtain a Gold 4 Star Trainer card in Sapphire.
+    - [ ] Get a record in the Hall of Fame.
+    - [ ] Complete the Hoenn Pokedex.
+    - [ ] Get five paintings in the Lilycove Museum.
+    - [ ] Defeat 50 trainers in a row in the Battle Tower.
+- [ ] Master all ranks of contests in Sapphire.
 
 ### Colosseum
  
-- [] All shadow pokemon caught and purified.
-- [] Complete Mt Battle with an unchanged party in one-go.
+- [ ] All shadow pokemon caught and purified.
+- [ ] Complete Mt Battle with an unchanged party in one-go.
 
 ### FireRed / LeafGreen
 
-- [] Defeat the Elite Four and Gary **in both games**.
-- [] Get a record in the Hall of Fame.
-- [] Complete the Kanto Pokedex.
-- [] Jump 100 times in a row in Pokemon Jump and get 200 berries in Dodrio Berry Picking.
+- [ ] Defeat the Elite Four and Gary **in both games**.
+- [ ] Get a record in the Hall of Fame.
+- [ ] Complete the Kanto Pokedex.
+- [ ] Jump 100 times in a row in Pokemon Jump and get 200 berries in Dodrio Berry Picking.
 
 ### XD: Gale of darkness
 
-- [] All shadow pokemon caught and purified.
-- [] Complete Mt Battle with an unchanged party in one-go.
-- [] Collect and complete all Battle CDs
-- [] Complete Orre Colosseum.
+- [ ] All shadow pokemon caught and purified.
+- [ ] Complete Mt Battle with an unchanged party in one-go.
+- [ ] Collect and complete all Battle CDs
+- [ ] Complete Orre Colosseum.
 
 ### Emerald
 
-- [] Obtain a Gold 4 Star trainer card.
-     - [] Get a record in the Hall of Fame.
-     - [] Complete the Hoenn Pokedex.
-     - [] Win all Master Rank Pokemon Contests and get the corresponding paintings.
-     - [] Win all gold symbols in the Battle Frontier.
+- [ ] Obtain a Gold 4 Star trainer card.
+     - [ ] Get a record in the Hall of Fame.
+     - [ ] Complete the Hoenn Pokedex.
+     - [ ] Win all Master Rank Pokemon Contests and get the corresponding paintings.
+     - [ ] Win all gold symbols in the Battle Frontier.
 
 ## Rules
 
