@@ -67,9 +67,9 @@ In addition to the living dex, I also have other goals I wish to accomplish.
 
 ### Game
 
-- Set mode for battles, with level cap enforcement using the lowest level gym leader's pokemon as the cap.
-- For the main story mode, the teams for each game are randomized with Pokemon I've never used before for some distinct variety and challenges.
+- Set mode for battles.
 - Can only use Pokeballs in battles.
+- For the main story mode, the teams for each game are randomized with Pokemon I've never used before for some distinct variety and challenges.
 - Every Pokemon in must be caught with ONLY a Pokeball.
     - Safari Zone pokemon will need to utilize breeding.
 
