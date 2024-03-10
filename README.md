@@ -1,32 +1,80 @@
 # Pokemon Generation 3 Living Dex
 
-This is the documentation and storage for my challenge run of [completing a Generation 3 living dex](https://bulbapedia.bulbagarden.net/wiki/Living_Pok%C3%A9dex).
+This is the documentation and archive for my challenge run of [completing a Generation 3 living dex](https://bulbapedia.bulbagarden.net/wiki/Living_Pok%C3%A9dex).
 
-I grew up playing the generation 3 Pokemon games and want to fully go back and complete many different goals:
+> A living Pokédex is a fan term for a game which not only has a complete Pokédex, but has one of every available species of Pokémon stored in its PC boxes as well, usually in their National Pokédex order. It follows the most literal interpretation of the slogan of the series, "Gotta catch 'em all!".
 
-- Gold Symbols in Battle Frontier
-- A full "living dex".
-- Clearing Mt Battle and Orre Colosseum in the GameCube games.
-- Battle Tower streak
-- Fully completed contest and ribbon run.
+I grew up playing the generation 3 Pokemon games and want to fully go back and get a full complete experience of the games.
 
-## Emulators
+In addition to the living dex, I also have other goals I wish to accomplish.
 
-Will be using mgba for the game boy games, and Dolphin for the gamecube ones.
+## Goals / Completion
+
+### Overall
+
+- [] All 386 legitimate Pokémon stored in a save file of Pokemon Box Ruby and Sapphire OR Emerald.
+
+### Ruby and Sapphire
+
+- [] Defeat the Elite Four and Steven **in both games**.
+- [] Obtain a Gold 4 Star Trainer card in Sapphire.
+    - [] Get a record in the Hall of Fame.
+    - [] Complete the Hoenn Pokedex.
+    - [] Get five paintings in the Lilycove Museum.
+    - [] Defeat 50 trainers in a row in the Battle Tower.
+- [] Master all ranks of contests in Sapphire.
+
+### Colosseum
+ 
+- [] All shadow pokemon caught and purified.
+- [] Complete Mt Battle with an unchanged party in one-go.
+
+### FireRed / LeafGreen
+
+- [] Defeat the Elite Four and Gary **in both games**.
+- [] Get a record in the Hall of Fame.
+- [] Complete the Kanto Pokedex.
+- [] Jump 100 times in a row in Pokemon Jump and get 200 berries in Dodrio Berry Picking.
+
+### XD: Gale of darkness
+
+- [] All shadow pokemon caught and purified.
+- [] Complete Mt Battle with an unchanged party in one-go.
+- [] Collect and complete all Battle CDs
+- [] Complete Orre Colosseum.
+
+### Emerald
+
+- [] Obtain a Gold 4 Star trainer card.
+     - [] Get a record in the Hall of Fame.
+     - [] Complete the Hoenn Pokedex.
+     - [] Win all Master Rank Pokemon Contests and get the corresponding paintings.
+     - [] Win all gold symbols in the Battle Frontier.
 
 ## Rules
 
+### Tools
+
 - Emulation and speed up is allowed, otherwise I'd go insane with the time investment required.
-- Every game in Gen 3 must be completed including its post game content.
+- No cheating at ALL. No glitches, exploits, or action replay rom hacks.
+    - **PokeHex can exceptionally be used to view save data but NOT write or modify it.**
+- Event distribution roms for unobtainable legendaries are fair game as long as I use mystery gift or link cable functionality.
+    - Event pokemon cannot be inserted using PokeHex or Action Replay cheats.
+- ONLY the Vanilla games can be played. No quality of life rom hacks are allowed for a full authentic experience.
+- Trading and linking between games is allowed and necessary for trade evolutions.
+    - Trading cannot happen during the main story unless I want a trade evolution.
+    - Trading can be used and is encouraged for having the best Pokemon from previous runs be used for Battle Frontier and Colosseums.
+
+### Game
+
 - Set mode for battles, with level cap enforcement using the lowest level gym leader's pokemon as the cap.
 - For the main story mode, the teams for each game are randomized with Pokemon I've never used before for some distinct variety and challenges.
-- Can only use Pokeballs items in battles.
-- Every Pokemon in the living dex must be caught with a Pokeball.
+- Can only use Pokeballs in battles.
+- Every Pokemon in must be caught with ONLY a Pokeball.
     - Safari Zone pokemon will need to utilize breeding.
-- No cheating at ALL. No glitches, exploits, or action replay rom hacks.
-    - **PokeHex can be used** just to see the EVs and IVs of Pokemon for sanity.
-- Event Pokemon must be obtained using the roms that contain the event for a near legit experience.
-- Only the vanilla games can be played.
-- Can ONLY play [Gen 3 games](https://bulbapedia.bulbagarden.net/wiki/Generation_III). This goes from Ruby/Sapphire to Emerald and includes the gameboy releases.
 
+## Tools
+
+- [mgba](https://mgba.io/) 
+- [Dolphin](https://dolphin-emu.org/) for the gamecube ones.
 
