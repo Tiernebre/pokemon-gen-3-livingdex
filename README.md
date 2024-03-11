@@ -68,7 +68,6 @@ In addition to the living dex, I also have other goals I wish to accomplish.
 ### Game
 
 - Set mode for battles.
-- Level cap for the Gym Leader / E4 member's weakest Pokemon. If a Pokemon goes over I cannot use it and will need to use another.
 - Can only use Pokeballs in battles.
 - Every Pokemon in must be caught with ONLY a Pokeball.
     - Safari Zone pokemon will need to utilize breeding.
