@@ -68,7 +68,6 @@ In addition to the living dex, I also have other goals I wish to accomplish.
 ### Game
 
 - Set mode for battles.
-- Can only use Pokeballs in battles.
 - Every Pokemon in must be caught with ONLY a Pokeball.
     - Safari Zone pokemon will need to utilize breeding.
 - All Pokemon must be nicknamed.
