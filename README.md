@@ -23,7 +23,6 @@ In addition to the living dex, I also have other goals I wish to accomplish.
 ### Ruby and Sapphire
 
 - [ ] Defeat the Elite Four and Steven **in both games**.
-- [ ] Complete a hardcore nuzlocke run on Ruby.
 - [ ] Obtain a Gold 4 Star Trainer card in Sapphire.
   - [ ] Get a record in the Hall of Fame.
   - [ ] Complete the Hoenn Pokedex.
@@ -39,7 +38,6 @@ In addition to the living dex, I also have other goals I wish to accomplish.
 ### FireRed / LeafGreen
 
 - [ ] Defeat the Elite Four and Gary **in both games**.
-- [ ] Complete a hardcore nuzlocke run on FireRed.
 - [ ] Get a record in the Hall of Fame.
 - [ ] Complete the Kanto Pokedex.
 - [ ] Jump 100 times in a row in Pokemon Jump and get 200 berries in Dodrio
@@ -87,29 +85,6 @@ In addition to the living dex, I also have other goals I wish to accomplish.
 - Every Pokemon in must be caught with ONLY a Pokeball.
   - Safari Zone pokemon will need to utilize breeding.
 - All Pokemon must be nicknamed.
-
-### Nuzlocke
-
-Ruby and FireRed will be ran using Hardcore nuzlocke rules to spice things up
-during my living dex run:
-
-1. Once a Pokémon faints it is considered dead and cannot be used anymore.
-2. You can only catch your first encounter in every area.
-3. You must nickname every Pokémon.
-4. Once you white out the run is over.
-5. You cannot use items in battle. Held items are allowed.
-6. You have to change the Battle-Style to "Set".
-7. You cannot level past the next Gym Leaders strongest Pokémon.
-8. Gift Pokémon/Static Pokémon are allowed, as long as they are your first
-   encounter.
-9. Once the champion has been defeated, the Nuzlocke rules are lifted to allow
-   for catching version exclusives for the living dex.
-
-Clauses
-
-- Dupes Clause
-- Species Clause
-- Shiny Clause
 
 ## Tools
 
