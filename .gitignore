@@ -25,3 +25,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Alternate save files
+*.sa1
+*.sa2
+*.sa3
+*.sa4
