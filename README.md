@@ -93,3 +93,4 @@ In addition to the living dex, I also have other goals I wish to accomplish.
 - [PKHeX](https://projectpokemon.org/home/files/file/1-pkhex/)
   - Just for viewing save data and knowing EVs and IVs for prepping for
     frontier.
+- [Pokeblock Calculation and Contests Sheet](https://docs.google.com/spreadsheets/d/1A61T_0yHWtXVooQLjw6ocmI8Dx7tdGkp9P-X-dL2yOs/edit)
