@@ -22,10 +22,10 @@ In addition to the living dex, I also have other goals I wish to accomplish.
 
 ### Ruby and Sapphire
 
-- [ ] Defeat the Elite Four and Steven **in both games**.
+- [X] Defeat the Elite Four and Steven **in both games**.
 - [ ] Obtain a Gold 4 Star Trainer card in Sapphire.
-  - [ ] Get a record in the Hall of Fame.
-  - [ ] Complete the Hoenn Pokedex.
+  - [X] Get a record in the Hall of Fame.
+  - [X] Complete the Hoenn Pokedex.
   - [ ] Get five paintings in the Lilycove Museum.
   - [ ] Defeat 50 trainers in a row in the Battle Tower.
 - [ ] Master all ranks of contests in Sapphire.
